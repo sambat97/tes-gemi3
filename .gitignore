@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+stats.json
+venv/
+.vscode/
